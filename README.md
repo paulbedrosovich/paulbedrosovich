@@ -1,9 +1,9 @@
-### ✘ Paulo Frontend dev
+### ✘ Paulo Frontend Developer
 **I write code in:** HTML, CSS <br>
 
 
 
-## ✘ Stats
+## ✘ Statistics
 
 
 
