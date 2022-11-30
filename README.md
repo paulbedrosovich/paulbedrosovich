@@ -1,16 +1,15 @@
 ### ✘ Paulo Frontend dev
 **I write code in:** HTML, CSS <br>
 
-<hr>
+
 
 ## ✘ Stats
 
-<hr>
+
 
 ![paulbedrosovich github stats](https://github-readme-stats.vercel.app/api?username=paulbedrosovich&show_icons=true&theme=dark&bg_color=45,000000,696969)
 <br>
 
-<hr>
 
 ## ✘ Contact me
 
