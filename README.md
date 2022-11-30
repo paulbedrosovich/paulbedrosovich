@@ -7,7 +7,7 @@
 
 
 
-![paulbedrosovich github stats](https://github-readme-stats.vercel.app/api?username=paulbedrosovich&show_icons=true&theme=dark&bg_color=45,000000,696969)
+![paulbedrosovich github stats](https://github-readme-stats.vercel.app/api?username=paulbedrosovich&show_icons=true&theme=dark&bg_color=45,000000,696969,000000)
 <br>
 
 
