@@ -9,6 +9,7 @@
 
 ![paulbedrosovich github stats](https://github-readme-stats.vercel.app/api?username=paulbedrosovich&show_icons=true&theme=dark&bg_color=45,000000,262626,000000)
 <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulbedrosovich&show_icons=true&theme=dark&bg_color=45,000000,262626,000000)
 
 
 ## ✘ Contact me
